@@ -13,5 +13,5 @@
 I am Ashutosh dwivedi, A final year computer science student from Galgotias college of engineering and
 technology Greater noida.My major areas of interest are Web Development, Open Source, Data
 Structure and Algorithms.
-**My Wesbite**  **[![Awesome](https://awesome.re/badge.svg)](https://ashutoshdwivedi.in)**
+**My Website**  **[![Awesome](https://awesome.re/badge.svg)](https://ashutoshdwivedi.in)**
 
