@@ -1,32 +1,33 @@
-#### How to Contribute :question:
+# How to Contribute :question:
+
 :one: Fork the repository
-<br>
-:two: Under students list folder add your profile as **firstName_lastName_githubId.md** and fill your details.
-<br>
-:three: Commit the chages
- <br>
-:four: push the changes
- <br>
-:five: make a pull request.
 
+:two: Add your profile as `**students list/firstName_lastName_githubId.md**` and include your details
 
+:three: Commit the changes
 
-## Template for contribution :clipboard:
+:four: Push the changes
 
+:five: Make a pull request.
 
-## Introduction :sunglasses:
-**Your name**:     Ashutosh Dwivedi
-<br>
+## Template for contributions :clipboard:
+
+### Introduction :sunglasses:
+
+**Your name**: Ashutosh Dwivedi
+
 **Your college**: Galgotias college of engineering and Technology Greater Noida.
-<br>
+
 **Your Branch**: Computer science
-<br>
-**Your GitHub id**: [I'm Ashutosh Dwivedi](https://github.com/kindacoder)
-<br>
-**place** : New Delhi
+
+**Your GitHub id**: [@kindacoder](https://github.com/kindacoder)
+
+**Your location**: New Delhi
+
 ### About You :boy:
+
+Anything about yourself!
+
 ---
 
-**Link of your profile/web-page/blog** :link: :
-
-**Your Wesbite**  **[![Awesome](https://awesome.re/badge.svg)](https://github.com)**
+**Link to your profile/web-page/blog** :link:: **Your Website**  **[![Awesome](https://awesome.re/badge.svg)](https://github.com)**
