@@ -1,13 +1,13 @@
-## Introduction :sunglasses:
-**Name :name_badge:**:     Nitin Kumar
+## Introduction :smile: :heart: :computer:
+**Name :card_index:**:     Nitin Kumar
 <br>
-**College :mortar_board:**: JIMS Engineering Management Technical Campus (affli.GGSIPU) Greater Noida.
+**College :school_satchel:**: <a href="http://www.jimsgn.org/" >JIMS Engineering Management Technical Campus (affli.GGSIPU) Greater Noida.</a>
 <br>
-**Branch**: Computer science
+**Branch :notebook:**: Computer science
 <br>
-**GitHub id :id:**: [Hello Master](https://github.com/MasterKN48/)
+**GitHub :octocat:**: [Hello Master](https://github.com/MasterKN48/)
 <br>
-**place :house:** : New Delhi
+**Place :house:** : New Delhi
 ### About me :boy: :
 ---
 I Nitin Kumar, A 3rd year computer science student from JIMS Engineering Management Technical Campus Greater noida.My major areas of interest are Web Development, Ethical Hacking.
