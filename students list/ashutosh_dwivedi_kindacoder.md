@@ -5,7 +5,7 @@
 <br>
 **Branch**: Computer science
 <br>
-**GitHub id :id: **: [I'm Ashutosh Dwivedi](https://github.com/kindacoder)
+**GitHub id :id:**: [I'm Ashutosh Dwivedi](https://github.com/kindacoder)
 <br>
 **place :house:** : New Delhi
 ### About me :boy: :
