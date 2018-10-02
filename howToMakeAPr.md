@@ -15,4 +15,6 @@ Fear not because this tutorial will teach you how to create your first pull requ
 6. Click on ***Create Pull Request***.<br><br>
 ![](https://help.github.com/assets/images/help/pull_requests/pullrequest-send.png)<br><br>
 
-Now your Pull Request is ready to be merged! Cheers! Go rock the world!:globe_with_meridians::smiling_imp:
+Now your Pull Request is ready to be merged! Cheers! Go rock the world!:globe_with_meridians::smiling_imp:<br><br>
+
+[Source](https://help.github.com/articles/creating-a-pull-request/)
