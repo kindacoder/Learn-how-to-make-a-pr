@@ -2,7 +2,7 @@
 
 :one: Fork the repository
 
-:two: Add your profile as `**students list/firstName_lastName_githubId.md**` and include your details
+:two: Add your profile as **`students list/firstName_lastName_githubId.md`** and include your details
 
 :three: Commit the changes
 
