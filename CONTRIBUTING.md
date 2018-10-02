@@ -10,6 +10,13 @@
 
 :five: Make a pull request.
 
+:six: Star this repository.
+
+:seven: Wait for your PR to be merged.
+
+:eight: Celebrate - you've done your first pull request!!
+
+
 ## Template for contributions :clipboard:
 
 ### Introduction :sunglasses:
