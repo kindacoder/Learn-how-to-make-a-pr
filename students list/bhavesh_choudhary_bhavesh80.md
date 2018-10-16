@@ -1,5 +1,5 @@
 Name : Bhavesh Choudhary
-College 🎓: G.H.Raisoni College of Engineering and Management,Pune
+College 🎓:G.H.Raisoni College of Engineering and Management,Pune
 Branch: Computer science 
 GitHub id 🆔: bhavesh80
 place 🏠 : Pune,Maharashtra
