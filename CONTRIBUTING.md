@@ -38,3 +38,12 @@ Anything about yourself!
 ---
 
 **Link to your profile/web-page/blog** :link:: **Your Website**  **[![Awesome](https://awesome.re/badge.svg)](https://github.com)**
+**Your name**: Shehani Ranasinghe
+
+**Your college**: University of Colombo School of computing
+
+**Your Branch**: information Systems
+
+**Your GitHub id**: https://github.com/ShehaniRanasighe
+
+**Your location**: Sri Lanka
