@@ -1,39 +1,40 @@
-# Learn-how-to-make-a-pr :rocket:
-This repository is for beginners who want to learn how to make a full request. Enjoy :) checkout the example template :    [ashutosh_dwivedi_kindacoder.md](https://github.com/code-with-kindacoder/Learn-how-to-make-a-pr/blob/master/students%20list/ashutosh_dwivedi_kindacoder.md).
-<br>
-***Use the emogi's as much as you can . Top profile would be a winner and would be eligible for 5 $ :dollar: amazon gitft card.**
+# How to Contribute :question:
 
-
-#### How to Contribute :question:
 :one: Fork the repository
-<br>
-:two: Under students list folder add your profile as **firstName_lastName_githubId.md** and fill your details.
-<br>
-:three: Commit the chages
- <br>
-:four: push the changes
- <br>
-:five: make a pull request.
+
+:two: Add your profile as **`students list/firstName_lastName_githubId.md`** and include your details
+
+:three: Commit the changes
+
+:four: Push the changes
+
+:five: Make a pull request.
+
+:six: Star this repository.
+
+:seven: Wait for your PR to be merged.
+
+:eight: Celebrate - you've done your first pull request!!
 
 
+## Template for contributions :clipboard:
 
-## Template for contribution :clipboard:
+### Introduction :sunglasses:
 
+**Your name**: Ashutosh Dwivedi
 
-## Introduction :sunglasses:
-**Your name**:     Ashutosh Dwivedi
-<br>
 **Your college**: Galgotias college of engineering and Technology Greater Noida.
-<br>
+
 **Your Branch**: Computer science
-<br>
-**Your GitHub id**: [I'm Ashutosh Dwivedi](https://github.com/kindacoder)
-<br>
-**place** : New Delhi
+
+**Your GitHub id**: [@kindacoder](https://github.com/kindacoder)
+
+**Your location**: New Delhi
+
 ### About You :boy:
+
+Anything about yourself!
+
 ---
 
-**Link of your profile/web-page/blog** :link: :
-
-**Your Wesbite**  **[![Awesome](https://awesome.re/badge.svg)](https://github.com)**
-
+**Link to your profile/web-page/blog** :link:: **Your Website**  **[![Awesome](https://awesome.re/badge.svg)](https://github.com)**
