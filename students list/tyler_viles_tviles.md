@@ -10,4 +10,4 @@
 **Location**: Missouri, United States
 ### About Me :
 ---
-My name is Tyler. I am a Computer Science student in Missour, USA. I am also a web developer at [Midwestern Interactive](https://github.com/MidwesternInteractive)
+My name is Tyler. I am a Computer Science student in Missouri, USA; and a web developer at [Midwestern Interactive](https://github.com/MidwesternInteractive)
