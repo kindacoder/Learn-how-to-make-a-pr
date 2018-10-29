@@ -1,20 +1,20 @@
 # How to Contribute :question:
 
-:one: Fork the repository
+:one: Fork the repository!
 
-:two: Add your profile as **`students list/firstName_lastName_githubId.md`** and include your details
+:two: Add your profile as **`students list/firstName_lastName_githubId.md`** and include your details!
 
-:three: Commit the changes
+:three: Commit the changes!
 
-:four: Push the changes
+:four: Push the changes!
 
-:five: Make a pull request.
+:five: Make a pull request.!
 
-:six: Star this repository.
+:six: Star this repository.!
 
-:seven: Wait for your PR to be merged.
+:seven: Wait for your PR to be merged.!
 
-:eight: Celebrate - you've done your first pull request!!
+:eight: Celebrate - you've done your first pull request!!!!!
 
 
 ## Template for contributions :clipboard:
