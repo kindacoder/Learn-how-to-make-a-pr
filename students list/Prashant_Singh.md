@@ -4,7 +4,7 @@
 
 **Branch**: IT.
 
-**GitHub id**: [@prshntsingh](https://github.com/prshntsingh)
+**GitHub id**: [@prshntsingh] (https://github.com/prshntsingh)
 
 **Location**: Ranchi
 
@@ -12,4 +12,4 @@
 I am a fourth year undergraduate student pursuing B.E. in Information Technology at BIT Mesra Ranchi and am always looking for opportunities to learn new languages and technologies.
 
 ## Want to Connect?
-[LinkedIn Profile](https://www.linkedin.com/in/prashant-singh-aa7b0826/)
+[LinkedIn Profile] (https://www.linkedin.com/in/prashant-singh-aa7b0826/)
