@@ -10,6 +10,6 @@
 **Place :house:** : New Delhi
 ### About me :boy: :
 ---
-I Nitin Kumar, 3rd year computer science student from JIMS Engineering Management Technical Campus Greater noida.My major areas of interest are Web Development, Ethical Hacking.
+I am Nitin Kumar, 3rd year computer science student from JIMS Engineering Management Technical Campus Greater noida. My major areas of interest are Web Development, Ethical Hacking.
 <br> **<a href="http://masterkn48.me/" style="background:teal;">Website</a>**
 
