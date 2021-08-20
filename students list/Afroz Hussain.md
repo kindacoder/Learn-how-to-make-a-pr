@@ -1,6 +1,6 @@
 ### Introduction :sunglasses:
 
-**My Name**: Afroz Hussain.:bowtie:
+**My Name**: Afro Hussain.:bowtie:
 
 **My College**: Sahyadi College of Engineering and Management.:school::books:
 
